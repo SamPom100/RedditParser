@@ -15,3 +15,7 @@ You can run
   - simpleParse.customSize (resize images to desired resolution)
   - simpleParse.easy (use the default configuration)
   - simpleParse.manipulated (configure how many images and the subreddit)
+  
+If you don't specify the image size, simpleParse returns a compressed image to avoid stack overflows.
+
+<img width="497" alt="sample" src="https://user-images.githubusercontent.com/28206070/83478267-0751c500-a45b-11ea-9de1-7d7a0fa15960.png">
