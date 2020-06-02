@@ -1,5 +1,5 @@
 # RedditParser
-Parse media from subreddits / users. Has a built in GUI. Bundled as exe.
+Parse media from subreddits / users without any API. Reads from Reddit's XML. Has a built in GUI. Bundled as exe.
 
 ## How to use this
 
