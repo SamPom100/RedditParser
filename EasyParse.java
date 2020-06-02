@@ -30,7 +30,7 @@ public class EasyParse {
         JTextField whatSub = new JTextField();
         JTextField howMany = new JTextField(); // JPasswordField is cool
         Object[] message = { "What SubReddit:", whatSub, "How Many Images:", howMany };
-        int option = JOptionPane.showConfirmDialog(null, message, "Okie", JOptionPane.OK_CANCEL_OPTION);
+        int option = JOptionPane.showConfirmDialog(null, message, "Sam's Reddit Parser", JOptionPane.OK_CANCEL_OPTION);
         if (option == JOptionPane.OK_OPTION) {
             simpleParse.manipulated(whatSub.getText(), Integer.parseInt(howMany.getText()));
         }
