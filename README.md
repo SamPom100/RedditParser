@@ -5,6 +5,8 @@ Parse media from subreddits / users. Has a built in GUI. Bundled as exe.
 
 Running the main file presents you with a simpleParse.maniuplated dialoug, which looks like:
 
+<img width="255" alt="GUI" src="https://user-images.githubusercontent.com/28206070/83478266-06b92e80-a45b-11ea-9f80-d704ad4ed4b1.png">
+
 There are other permutations.
 
 You can run
